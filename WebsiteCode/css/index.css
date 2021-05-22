@@ -1,0 +1,40 @@
+body {
+  height: 5000px;
+}
+.leftContent {
+	width: 29%;
+	float: left;
+	height: 500px;
+}
+
+.rightContent {
+	width: 70%;
+	height: 1000px;
+	float: left;
+}
+
+
+.aboutLunaPic{
+	float: left;
+	margin: 5px;
+}
+
+
+.topRight{
+	height: 400px;
+}
+
+.bottomRight {
+	position: relative;
+	bottom: 0;
+}
+nav {
+  height: 50px;
+  background-color: rgb(255, 201, 158);
+  margin-bottom: 5px;
+}
+
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
